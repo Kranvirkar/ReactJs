@@ -1,0 +1,17 @@
+/* This CSS rule styles the .container-fluid class:
+ * - It uses flexbox to align its child elements.
+ * - It centers the child elements both horizontally (justify-content: center) and vertically (align-items: center).
+ * - It sets a fixed height of 500px for the container.
+ 
+ .container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+*/
+
+form{
+    padding: 20px;
+    border: 2px solid gray;
+}
